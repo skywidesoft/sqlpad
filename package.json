@@ -1,0 +1,10 @@
+{
+  "name": "sqlpad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sqlpad --dir /sqlpad/db --port 3000 --passphrase myphrase"
+  },
+  "devDependencies": {}
+}
